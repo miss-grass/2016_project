@@ -1,4 +1,5 @@
 # 2016_project
+ For memory game:
  2016.2.24
  This may help to play the game smoothly.
  Follow the instruction:
